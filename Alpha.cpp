@@ -4,7 +4,7 @@ using namespace std;
 
 int main ()
 {
-	
+	// Looping for 5 times
 	for (int i=0;i<5;i++)
 		cout<<"I love Pakistan."<<endl;	
 
